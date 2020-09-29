@@ -11,8 +11,7 @@ def function_four():
     print("Function Four from func_4_branch")
 
 def function_five():
-<<<<<<< HEAD
 	print("Function 5")
-=======
-    print("Function Five :)")
->>>>>>> 6c153b3... Function Five
+
+def function_six():
+	print("Function Six")
